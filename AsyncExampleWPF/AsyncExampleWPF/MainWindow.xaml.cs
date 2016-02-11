@@ -40,6 +40,11 @@ namespace AsyncExampleWPF
 
         private async Task SumPageSizesAsync()
         {
+            // Declare an HttpClient object and increase the buffer size. The
+            // default buffer size is 65,536.
+            HttpClient client =
+            new HttpClient() { MaxResponseContentBufferSize = 1000000 };
+
             // Make a list of web addresses.
             List<string> urlList = SetUpURLList();
 
@@ -47,7 +52,9 @@ namespace AsyncExampleWPF
             foreach (var url in urlList)
             {
                 // GetURLContents returns the contents of url as a byte array.
-                byte[] urlContents = await GetURLContentsAsync(url);
+                //byte[] urlContents = await GetURLContentsAsync(url);
+
+                byte[] urlContents = await client.GetByteArrayAsync(url);   
 
                 DisplayResults(url, urlContents);
 
