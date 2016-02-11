@@ -1,0 +1,13 @@
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\bin\Release\AsyncExampleWPF.exe.config
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\bin\Release\AsyncExampleWPF.exe
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\bin\Release\AsyncExampleWPF.pdb
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF.csprojResolveAssemblyReference.cache
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\MainWindow.baml
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\MainWindow.g.cs
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\App.g.cs
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF_MarkupCompile.cache
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF.g.resources
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF.Properties.Resources.resources
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF.csproj.GenerateResource.Cache
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF.exe
+E:\Programming\Dotnet\MSDN\AsynchAwait\AsyncExampleWPF\AsyncExampleWPF\obj\Release\AsyncExampleWPF.pdb
